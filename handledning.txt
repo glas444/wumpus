@@ -1,0 +1,42 @@
+You are in the culverts under CSC, where the gluttonous Wumpus lives.
+To avoid getting eaten, you must shoot Wumpus with your arrow and bow.
+The culverts have 20 rooms that are linked with narrow corridors. 
+You can move north, south, west or east from one room to another.
+
+However, there are dangers that lurks. In some rooms there are bottomless pits.
+If you step into one of these you die immediately. Other rooms are full of
+bats which picks you up, flys a bit and drops you in a random room.
+In one of the rooms you may find Wumpus, and if you dare walk into that room
+you will be eaten immediately. Luckily you can feel the breeze from the rooms
+next to you. The wind from the abyss or the smell of Wumpus. You also get to 
+know which rooms are next to you.
+
+To win the game you must shoot your bow and pierce Wumpus with one of your
+five arrows. When you shoot one of your arrows it can move through three rooms.
+You can control which direction the arrow should move in each rooms. 
+You may happen to slay yourself.
+
+You can choose to either move or shoot.
+If you select move, the button will be
+kept pressed till you choose to use the bow.
+If you select bow, the arrow will fly through
+three rooms, and then get depleted.
+
+You move the and the arrow with the arrow-keys
+in directions North, South, West and East.
+
+You have five arrows in your quiver
+each marked with a dot inside.
+Every arrow lasts through three rooms.
+
+When one arrow has been used,
+the leftmost marker disappears.
+
+When a danger is near, the ground beneath the hero
+will light up. If a more dangerous obstacle is near,
+the ground will display that colour. 
+ - Grey means that no danger is near.
+ - Purple means that bats are closeby
+ - Dark blue means that holes are nearby.
+ - Wine red means that Wumpus is nextdoor.
+
